@@ -137,9 +137,9 @@
     <category term="test" scheme="http://example.com/categories/python/test/"/>
     
     
-    <category term="test" scheme="http://example.com/tags/test/"/>
-    
     <category term="Blog" scheme="http://example.com/tags/Blog/"/>
+    
+    <category term="test" scheme="http://example.com/tags/test/"/>
     
   </entry>
   
