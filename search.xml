@@ -31,6 +31,31 @@
     
     
     <entry>
+      <title>123.md</title>
+      <link href="/2023/04/17/123/"/>
+      <url>/2023/04/17/123/</url>
+      
+        <content type="html"><![CDATA[<div class="note icon-padding simple"><i class="note-icon fab fa-cc-visa"></i><p>ync</p></div><div class="note blue icon-padding simple"><i class="note-icon fas fa-bullhorn"></i><p>YNC</p></div><div class="note pink icon-padding simple"><i class="note-icon fas fa-car-crash"></i><p>AQY</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 123 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>输出函数print</title>
       <link href="/2023/04/17/%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0print/"/>
       <url>/2023/04/17/%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0print/</url>
