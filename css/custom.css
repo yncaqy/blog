@@ -275,3 +275,8 @@ svg.social_icon {
   fill: currentColor;
   overflow: hidden;
 }
+
+/* 关闭歌词显示 */
+.aplayer.aplayer-fixed .aplayer-lrc {
+  display: none !important;
+}
