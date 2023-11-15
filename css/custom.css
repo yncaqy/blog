@@ -280,3 +280,31 @@ svg.social_icon {
 .aplayer.aplayer-fixed .aplayer-lrc {
   display: none !important;
 }
+
+/* 文章框高度 */
+#recent-posts > .recent-post-item {
+  height: 200px;
+  border-radius: 18px !important;
+  border-color: #063c53;
+  border-width: medium;
+}
+
+/* 文章栏相关调整 */
+#recent-posts > .recent-post-item .post_cover {
+  padding: 10px;
+}
+
+#recent-posts > .recent-post-item .post_cover img{
+  border-radius: 12px !important;
+}
+
+#recent-posts > .recent-post-item >.recent-post-info > .article-title {
+  text-align: center;
+  font-family: STZhongsong,'Microsoft YaHei';
+  -webkit-box-orient: vertical;
+}
+
+#recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap {
+  line-height: 1.6;
+  text-align: center;
+}
