@@ -3,11 +3,11 @@
   <title>YNCAQY</title>
   
   <subtitle>ync</subtitle>
-  <link href="http://localhost:4000/atom.xml" rel="self"/>
+  <link href="https://vercel.aqyync.top/atom.xml" rel="self"/>
   
-  <link href="http://localhost:4000/"/>
+  <link href="https://vercel.aqyync.top/"/>
   <updated>2023-11-14T14:22:03.450Z</updated>
-  <id>http://localhost:4000/</id>
+  <id>https://vercel.aqyync.top/</id>
   
   <author>
     <name>yncaqy</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>123.md</title>
-    <link href="http://localhost:4000/2023/11/14/123/"/>
-    <id>http://localhost:4000/2023/11/14/123/</id>
+    <link href="https://vercel.aqyync.top/2023/11/14/123/"/>
+    <id>https://vercel.aqyync.top/2023/11/14/123/</id>
     <published>2023-11-14T03:30:11.000Z</published>
     <updated>2023-11-14T14:22:03.450Z</updated>
     
@@ -35,17 +35,17 @@
     
     
     
-    <category term="python" scheme="http://localhost:4000/categories/python/"/>
+    <category term="python" scheme="https://vercel.aqyync.top/categories/python/"/>
     
     
-    <category term="123" scheme="http://localhost:4000/tags/123/"/>
+    <category term="123" scheme="https://vercel.aqyync.top/tags/123/"/>
     
   </entry>
   
   <entry>
     <title>print函数进阶</title>
-    <link href="http://localhost:4000/2023/04/17/print%E5%87%BD%E6%95%B0%E8%BF%9B%E9%98%B6/"/>
-    <id>http://localhost:4000/2023/04/17/print%E5%87%BD%E6%95%B0%E8%BF%9B%E9%98%B6/</id>
+    <link href="https://vercel.aqyync.top/2023/04/17/print%E5%87%BD%E6%95%B0%E8%BF%9B%E9%98%B6/"/>
+    <id>https://vercel.aqyync.top/2023/04/17/print%E5%87%BD%E6%95%B0%E8%BF%9B%E9%98%B6/</id>
     <published>2023-04-17T08:26:08.000Z</published>
     <updated>2023-11-14T12:58:39.693Z</updated>
     
@@ -59,19 +59,19 @@
     
     
     
-    <category term="python" scheme="http://localhost:4000/categories/python/"/>
+    <category term="python" scheme="https://vercel.aqyync.top/categories/python/"/>
     
     
-    <category term="print函数进阶" scheme="http://localhost:4000/tags/print%E5%87%BD%E6%95%B0%E8%BF%9B%E9%98%B6/"/>
+    <category term="print函数进阶" scheme="https://vercel.aqyync.top/tags/print%E5%87%BD%E6%95%B0%E8%BF%9B%E9%98%B6/"/>
     
-    <category term="4月17号" scheme="http://localhost:4000/tags/4%E6%9C%8817%E5%8F%B7/"/>
+    <category term="4月17号" scheme="https://vercel.aqyync.top/tags/4%E6%9C%8817%E5%8F%B7/"/>
     
   </entry>
   
   <entry>
     <title>输出函数print</title>
-    <link href="http://localhost:4000/2023/04/17/%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0print/"/>
-    <id>http://localhost:4000/2023/04/17/%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0print/</id>
+    <link href="https://vercel.aqyync.top/2023/04/17/%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0print/"/>
+    <id>https://vercel.aqyync.top/2023/04/17/%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0print/</id>
     <published>2023-04-17T03:30:11.000Z</published>
     <updated>2023-11-14T13:01:28.992Z</updated>
     
@@ -87,19 +87,19 @@
     
     
     
-    <category term="python" scheme="http://localhost:4000/categories/python/"/>
+    <category term="python" scheme="https://vercel.aqyync.top/categories/python/"/>
     
     
-    <category term="输出函数print" scheme="http://localhost:4000/tags/%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0print/"/>
+    <category term="输出函数print" scheme="https://vercel.aqyync.top/tags/%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0print/"/>
     
-    <category term="4月17日" scheme="http://localhost:4000/tags/4%E6%9C%8817%E6%97%A5/"/>
+    <category term="4月17日" scheme="https://vercel.aqyync.top/tags/4%E6%9C%8817%E6%97%A5/"/>
     
   </entry>
   
   <entry>
     <title>python安装</title>
-    <link href="http://localhost:4000/2023/04/15/python%E5%AE%89%E8%A3%85/"/>
-    <id>http://localhost:4000/2023/04/15/python%E5%AE%89%E8%A3%85/</id>
+    <link href="https://vercel.aqyync.top/2023/04/15/python%E5%AE%89%E8%A3%85/"/>
+    <id>https://vercel.aqyync.top/2023/04/15/python%E5%AE%89%E8%A3%85/</id>
     <published>2023-04-15T08:16:10.000Z</published>
     <updated>2023-11-14T12:58:01.174Z</updated>
     
@@ -113,19 +113,19 @@
     
     
     
-    <category term="python" scheme="http://localhost:4000/categories/python/"/>
+    <category term="python" scheme="https://vercel.aqyync.top/categories/python/"/>
     
     
-    <category term="python安装" scheme="http://localhost:4000/tags/python%E5%AE%89%E8%A3%85/"/>
+    <category term="python安装" scheme="https://vercel.aqyync.top/tags/python%E5%AE%89%E8%A3%85/"/>
     
-    <category term="4月15号" scheme="http://localhost:4000/tags/4%E6%9C%8815%E5%8F%B7/"/>
+    <category term="4月15号" scheme="https://vercel.aqyync.top/tags/4%E6%9C%8815%E5%8F%B7/"/>
     
   </entry>
   
   <entry>
     <title>ync</title>
-    <link href="http://localhost:4000/2023/04/14/ync-1/"/>
-    <id>http://localhost:4000/2023/04/14/ync-1/</id>
+    <link href="https://vercel.aqyync.top/2023/04/14/ync-1/"/>
+    <id>https://vercel.aqyync.top/2023/04/14/ync-1/</id>
     <published>2023-04-14T08:54:37.000Z</published>
     <updated>2023-11-14T12:57:53.324Z</updated>
     
@@ -136,21 +136,21 @@
     
     
     
-    <category term="python" scheme="http://localhost:4000/categories/python/"/>
+    <category term="python" scheme="https://vercel.aqyync.top/categories/python/"/>
     
-    <category term="test" scheme="http://localhost:4000/categories/python/test/"/>
+    <category term="test" scheme="https://vercel.aqyync.top/categories/python/test/"/>
     
     
-    <category term="Blog" scheme="http://localhost:4000/tags/Blog/"/>
+    <category term="test" scheme="https://vercel.aqyync.top/tags/test/"/>
     
-    <category term="test" scheme="http://localhost:4000/tags/test/"/>
+    <category term="Blog" scheme="https://vercel.aqyync.top/tags/Blog/"/>
     
   </entry>
   
   <entry>
     <title>AQY</title>
-    <link href="http://localhost:4000/2023/04/14/AQY/"/>
-    <id>http://localhost:4000/2023/04/14/AQY/</id>
+    <link href="https://vercel.aqyync.top/2023/04/14/AQY/"/>
+    <id>https://vercel.aqyync.top/2023/04/14/AQY/</id>
     <published>2023-04-14T08:50:34.000Z</published>
     <updated>2023-11-15T07:00:40.982Z</updated>
     
@@ -164,10 +164,10 @@
     
     
     
-    <category term="test" scheme="http://localhost:4000/categories/test/"/>
+    <category term="test" scheme="https://vercel.aqyync.top/categories/test/"/>
     
     
-    <category term="test" scheme="http://localhost:4000/tags/test/"/>
+    <category term="test" scheme="https://vercel.aqyync.top/tags/test/"/>
     
   </entry>
   
