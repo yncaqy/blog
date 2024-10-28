@@ -340,3 +340,7 @@ svg.social_icon {
 [data-theme='dark'] #aside-content .aside-list > .aside-list-item:not(:last-child), #aside-content .aside-list > .aside-list-item:not(:last-child) {
   border-bottom: 0px;
 }
+/* 小冰标签 */
+.magnet_item {
+  box-shadow: 4px 3px 4px 2px #333;
+}

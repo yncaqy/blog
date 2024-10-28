@@ -3,11 +3,11 @@
   <title>YNCAQY</title>
   
   <subtitle>ync</subtitle>
-  <link href="https://vercel.aqyync.top/atom.xml" rel="self"/>
+  <link href="http://localhost:4000/atom.xml" rel="self"/>
   
-  <link href="https://vercel.aqyync.top/"/>
-  <updated>2023-11-14T14:22:03.450Z</updated>
-  <id>https://vercel.aqyync.top/</id>
+  <link href="http://localhost:4000/"/>
+  <updated>2023-11-23T07:44:22.299Z</updated>
+  <id>http://localhost:4000/</id>
   
   <author>
     <name>yncaqy</name>
@@ -17,11 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test_Qexo</title>
+    <link href="http://localhost:4000/2023/11/23/test_Qexo/"/>
+    <id>http://localhost:4000/2023/11/23/test_Qexo/</id>
+    <published>2023-11-23T07:38:16.777Z</published>
+    <updated>2023-11-23T07:44:22.299Z</updated>
+    
+    <content type="html"><![CDATA[<p>🙂</p><p><del><a href="https://vercel.aqyync.top"></a></del></p><div class="table-container"><table><thead><tr><th>1</th><th>2</th><th>3</th></tr></thead><tbody><tr><td>4</td><td>5</td><td>6</td></tr><tr><td>7</td><td>8</td><td>9</td></tr></tbody></table></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;🙂&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&quot;https://vercel.aqyync.top&quot;&gt;&lt;/a&gt;&lt;/del&gt;&lt;/p&gt;
+&lt;div class=&quot;table-container&quot;&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;1&lt;/th&gt;
+&lt;th&gt;2&lt;/th</summary>
+      
+    
+    
+    
+    <category term="test" scheme="http://localhost:4000/categories/test/"/>
+    
+    
+    <category term="test" scheme="http://localhost:4000/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>123.md</title>
-    <link href="https://vercel.aqyync.top/2023/11/14/123/"/>
-    <id>https://vercel.aqyync.top/2023/11/14/123/</id>
+    <link href="http://localhost:4000/2023/11/14/123/"/>
+    <id>http://localhost:4000/2023/11/14/123/</id>
     <published>2023-11-14T03:30:11.000Z</published>
-    <updated>2023-11-14T14:22:03.450Z</updated>
+    <updated>2023-11-18T05:45:50.537Z</updated>
     
     <content type="html"><![CDATA[<div class="note icon-padding simple"><i class="note-icon fab fa-cc-visa"></i><p>ync</p></div><div class="note blue icon-padding simple"><i class="note-icon fas fa-bullhorn"></i><p>YNC</p></div><div class="note pink icon-padding simple"><i class="note-icon fas fa-car-crash"></i><p>AQY</p></div>]]></content>
     
@@ -35,19 +66,19 @@
     
     
     
-    <category term="python" scheme="https://vercel.aqyync.top/categories/python/"/>
+    <category term="test" scheme="http://localhost:4000/categories/test/"/>
     
     
-    <category term="123" scheme="https://vercel.aqyync.top/tags/123/"/>
+    <category term="123" scheme="http://localhost:4000/tags/123/"/>
     
   </entry>
   
   <entry>
     <title>print函数进阶</title>
-    <link href="https://vercel.aqyync.top/2023/04/17/print%E5%87%BD%E6%95%B0%E8%BF%9B%E9%98%B6/"/>
-    <id>https://vercel.aqyync.top/2023/04/17/print%E5%87%BD%E6%95%B0%E8%BF%9B%E9%98%B6/</id>
+    <link href="http://localhost:4000/2023/04/17/print%E5%87%BD%E6%95%B0%E8%BF%9B%E9%98%B6/"/>
+    <id>http://localhost:4000/2023/04/17/print%E5%87%BD%E6%95%B0%E8%BF%9B%E9%98%B6/</id>
     <published>2023-04-17T08:26:08.000Z</published>
-    <updated>2023-11-14T12:58:39.693Z</updated>
+    <updated>2023-11-18T05:46:05.124Z</updated>
     
     <content type="html"><![CDATA[<h3 id="代码部分-表示注释，就是给人看的，机器执行程序会忽略前面带-号的"><a href="#代码部分-表示注释，就是给人看的，机器执行程序会忽略前面带-号的" class="headerlink" title="代码部分#表示注释，就是给人看的，机器执行程序会忽略前面带#号的"></a><font color=blue>代码部分#表示注释，就是给人看的，机器执行程序会忽略前面带#号的</font></h3><h2 id="print输出带颜色的内容"><a href="#print输出带颜色的内容" class="headerlink" title="print输出带颜色的内容"></a>print输出带颜色的内容</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-comment"># 格式：</span><br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;\033[显示方式;前景颜色;背景颜色m要打印输出内容\033[0m&quot;</span>)<br></code></pre></td></tr></table></figure><h2 id="显示方式：闪烁效果也就是5可能效果出不来"><a href="#显示方式：闪烁效果也就是5可能效果出不来" class="headerlink" title="显示方式：闪烁效果也就是5可能效果出不来"></a>显示方式：闪烁效果也就是5可能效果出不来</h2><p><img src="/img/print/show.png" alt="显示方式"></p><h2 id="前景颜色和背景颜色-可以理解成字体颜色和背景颜色"><a href="#前景颜色和背景颜色-可以理解成字体颜色和背景颜色" class="headerlink" title="前景颜色和背景颜色(可以理解成字体颜色和背景颜色)"></a>前景颜色和背景颜色(可以理解成字体颜色和背景颜色)</h2><p><img src="/img/print/front.png" alt="前景颜色和背景颜色"></p><h3 id="没有设置的话就是默认"><a href="#没有设置的话就是默认" class="headerlink" title="没有设置的话就是默认"></a>没有设置的话就是默认</h3><h2 id="代码部分"><a href="#代码部分" class="headerlink" title="代码部分"></a>代码部分</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-comment"># print(&quot;\033[显示方式;前景颜色;背景颜色m要打印输出内容\033[0m&quot;)</span><br><br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;\033[0;31;40m月念尘\033[0m&quot;</span>)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;\033[0;32;40m月念尘\033[0m&quot;</span>)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;\033[0;33;40m月念尘\033[0m&quot;</span>)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;\033[0;34;40m月念尘\033[0m&quot;</span>)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;\033[0;35;40m月念尘\033[0m&quot;</span>)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;\033[0;36;40m月念尘\033[0m&quot;</span>)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;\033[0;37;40m月念尘\033[0m&quot;</span>)<br></code></pre></td></tr></table></figure><p><img src="/img/print/kaitou.png" alt="开头"><br><img src="/img/print/one_to_one.png" alt="以此类推一一对应即可"></p><font color=red>!!记得开头结尾，其他颜色和显示方式对着表的数字填就好   开头："\033[" 结尾:"\033[0m"</font><h2 id="占位符"><a href="#占位符" class="headerlink" title="占位符"></a>占位符</h2><p>··1.%d代表数字占位符，代表int整型,只能传递十进制整数（十进制就是我们正常见到的数字）</p><h4 id="代码：把代码复制到一个新文件运行一下就能看到效果"><a href="#代码：把代码复制到一个新文件运行一下就能看到效果" class="headerlink" title="代码：把代码复制到一个新文件运行一下就能看到效果"></a>代码：把代码复制到一个新文件运行一下就能看到效果</h4><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs python">out = <span class="hljs-number">123</span><br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;输出=%d&quot;</span> % out)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;输出=%2d&quot;</span> % out)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;输出=%3d&quot;</span> % out)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;输出=%4d&quot;</span> % out)  <span class="hljs-comment"># 打印值4位，如果值大于四位就原样输出，小于就会用空格补全到四位</span><br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;输出=%.4d&quot;</span> % out) <span class="hljs-comment"># 打印值4位，如果值大于四位就原样输出，小于就会用0补全到四位</span><br></code></pre></td></tr></table></figure><p><img src="/img/print/p.png" alt="如图"></p><p>··2.%s代表字符串占位符 ， 代表string 字符串<br><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs python">out = <span class="hljs-string">&quot;123&quot;</span>  <span class="hljs-comment"># 记住，这不是数字，这是字符串</span><br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;输出=%s&quot;</span> % out)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;输出=%2s&quot;</span> % out)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;输出=%3s&quot;</span> % out)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;输出=%4s&quot;</span> % out)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;输出=%.2s&quot;</span> % out)  <span class="hljs-comment"># 和上面1的区别就是这里是截取前两个，大于它的位数也是原样输出，但是小于是截取，不是补全，复制代码运行就知道了</span><br></code></pre></td></tr></table></figure></p><h4 id="要实现字符串的拼接，使用占位符是的一种高效、常用的方式。-举个例子，下面是不使用占位符的一种写法，直接使用加号拼接字符串"><a href="#要实现字符串的拼接，使用占位符是的一种高效、常用的方式。-举个例子，下面是不使用占位符的一种写法，直接使用加号拼接字符串" class="headerlink" title="要实现字符串的拼接，使用占位符是的一种高效、常用的方式。 举个例子，下面是不使用占位符的一种写法，直接使用加号拼接字符串"></a>要实现字符串的拼接，使用占位符是的一种高效、常用的方式。 举个例子，下面是不使用占位符的一种写法，直接使用加号拼接字符串</h4><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs python">name = <span class="hljs-string">&quot;Li hua&quot;</span><br>age = <span class="hljs-number">24</span><br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;Hello &quot;</span>+ name +<span class="hljs-string">&quot;, you are &quot;</span> + <span class="hljs-built_in">str</span>(age) + <span class="hljs-string">&quot; years old&quot;</span>)<br><br></code></pre></td></tr></table></figure><h4 id="换成使用占位符的，可以写为"><a href="#换成使用占位符的，可以写为" class="headerlink" title="换成使用占位符的，可以写为"></a>换成使用占位符的，可以写为</h4><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs python">name = <span class="hljs-string">&quot;Li hua&quot;</span><br>age = <span class="hljs-number">24</span><br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;Hello %s, you are %d years old&quot;</span> % (name, age))<br></code></pre></td></tr></table></figure><h4 id="既然上代码了，这里就讲一讲变量，下面帮你详细剖析这段代码"><a href="#既然上代码了，这里就讲一讲变量，下面帮你详细剖析这段代码" class="headerlink" title="既然上代码了，这里就讲一讲变量，下面帮你详细剖析这段代码"></a>既然上代码了，这里就讲一讲变量，下面帮你详细剖析这段代码</h4><p><img src="/img/print/code2.png" alt="代码解释"><br>··3.%f 代表浮点，默认保留6位小数位，而第7位根据四舍五入取值</p><h5 id="首先，明确一点，浮点数就是我们常说的小数，当作小数理解就好"><a href="#首先，明确一点，浮点数就是我们常说的小数，当作小数理解就好" class="headerlink" title="首先，明确一点，浮点数就是我们常说的小数，当作小数理解就好"></a>首先，明确一点，浮点数就是我们常说的小数，当作小数理解就好</h5><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs python">f1 = <span class="hljs-number">1.23</span><br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;输出=%f&quot;</span> % f1) <span class="hljs-comment"># 默认情况保留6位小数</span><br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;输出=%.1f&quot;</span> % f1)  <span class="hljs-comment"># 保留1位小数</span><br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;输出=%.3f&quot;</span> % f1)  <span class="hljs-comment"># 保留3位小数，没有用0补</span><br></code></pre></td></tr></table></figure><p><img src="/img/print/out.png" alt="看控制台输出"><br>··4.%r 万能统配符 （可以将后面给的参数原样打印出来，带有类型信息）</p><h5 id="直接看效果，前面也一样，不懂就复制代码运行一遍看效果"><a href="#直接看效果，前面也一样，不懂就复制代码运行一遍看效果" class="headerlink" title="直接看效果，前面也一样，不懂就复制代码运行一遍看效果"></a>直接看效果，前面也一样，不懂就复制代码运行一遍看效果</h5><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs python">a = <span class="hljs-string">&quot;月念尘&quot;</span><br>c = <span class="hljs-string">&quot;   月念尘&quot;</span><br>b = <span class="hljs-number">1</span><br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;输出=%r&quot;</span> % a)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;输出=%r&quot;</span> % b)<br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;输出=%r&quot;</span> % c)<br></code></pre></td></tr></table></figure><p><img src="/img/print/out2.png" alt="看控制台输出"></p><h1 id="！！！不用死记，运行一下就知道结果了"><a href="#！！！不用死记，运行一下就知道结果了" class="headerlink" title="！！！不用死记，运行一下就知道结果了"></a><font color=red>！！！不用死记，运行一下就知道结果了</font></h1><h2 id="python的format格式化（不用记，多用就会了）"><a href="#python的format格式化（不用记，多用就会了）" class="headerlink" title="python的format格式化（不用记，多用就会了）"></a>python的format格式化（不用记，多用就会了）</h2><h3 id="直接看代码，太多文字反而解释不清，运行看效果自然懂了"><a href="#直接看代码，太多文字反而解释不清，运行看效果自然懂了" class="headerlink" title="直接看代码，太多文字反而解释不清，运行看效果自然懂了"></a>直接看代码，太多文字反而解释不清，运行看效果自然懂了</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs python"> <span class="hljs-comment"># 这是最简单2种用法，复杂还没遇到再说</span><br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;网站名：&#123;name&#125;, 地址 &#123;url&#125;&quot;</span>.<span class="hljs-built_in">format</span>(name=<span class="hljs-string">&quot;菜鸟教程&quot;</span>, url=<span class="hljs-string">&quot;www.runoob.com&quot;</span>)) <br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;网站名：&#123;0&#125;, 地址 &#123;1&#125;&quot;</span>.<span class="hljs-built_in">format</span>(<span class="hljs-string">&quot;菜鸟教程&quot;</span>, <span class="hljs-string">&quot;www.runoob.com&quot;</span>)) <span class="hljs-comment"># 0表示第一个， 1表示第二个</span><br><span class="hljs-built_in">print</span>(<span class="hljs-string">&quot;&#123;0:.2f&#125; &#123;1:.2f&#125;&quot;</span>.<span class="hljs-built_in">format</span>(<span class="hljs-number">3.1415926</span>, <span class="hljs-number">23443</span>))<br></code></pre></td></tr></table></figure><p><img src="/img/print/out3.png" alt="看效果"></p><h1 id="大概就这些了"><a href="#大概就这些了" class="headerlink" title="大概就这些了"></a>大概就这些了</h1>]]></content>
     
@@ -59,21 +90,21 @@
     
     
     
-    <category term="python" scheme="https://vercel.aqyync.top/categories/python/"/>
+    <category term="test" scheme="http://localhost:4000/categories/test/"/>
     
     
-    <category term="print函数进阶" scheme="https://vercel.aqyync.top/tags/print%E5%87%BD%E6%95%B0%E8%BF%9B%E9%98%B6/"/>
+    <category term="print函数进阶" scheme="http://localhost:4000/tags/print%E5%87%BD%E6%95%B0%E8%BF%9B%E9%98%B6/"/>
     
-    <category term="4月17号" scheme="https://vercel.aqyync.top/tags/4%E6%9C%8817%E5%8F%B7/"/>
+    <category term="4月17号" scheme="http://localhost:4000/tags/4%E6%9C%8817%E5%8F%B7/"/>
     
   </entry>
   
   <entry>
     <title>输出函数print</title>
-    <link href="https://vercel.aqyync.top/2023/04/17/%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0print/"/>
-    <id>https://vercel.aqyync.top/2023/04/17/%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0print/</id>
+    <link href="http://localhost:4000/2023/04/17/%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0print/"/>
+    <id>http://localhost:4000/2023/04/17/%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0print/</id>
     <published>2023-04-17T03:30:11.000Z</published>
-    <updated>2023-11-14T13:01:28.992Z</updated>
+    <updated>2023-11-18T05:45:56.062Z</updated>
     
     <content type="html"><![CDATA[<div class="note icon-padding simple"><i class="note-icon fab fa-cc-visa"></i><p>你是刷 Visa 还是 UnionPay</p></div><div class="note blue icon-padding simple"><i class="note-icon fas fa-bullhorn"></i><p>2021年快到了….</p></div><div class="note pink icon-padding simple"><i class="note-icon fas fa-car-crash"></i><p>小心开车 安全至上</p></div><h2 id="vscode安装完成了，接下来配置一下python的运行环境"><a href="#vscode安装完成了，接下来配置一下python的运行环境" class="headerlink" title="vscode安装完成了，接下来配置一下python的运行环境"></a>vscode安装完成了，接下来配置一下python的运行环境</h2><p><img src="/img/print/下载插件.png" alt="下载插件"></p><h3 id="插件下载完成之后就把vscode关掉重新打开"><a href="#插件下载完成之后就把vscode关掉重新打开" class="headerlink" title="插件下载完成之后就把vscode关掉重新打开"></a>插件下载完成之后就把vscode关掉重新打开</h3><h2 id="接着在桌面新建一个文件夹来存放代码文件，新建完在vscode里面打开这个文件夹"><a href="#接着在桌面新建一个文件夹来存放代码文件，新建完在vscode里面打开这个文件夹" class="headerlink" title="接着在桌面新建一个文件夹来存放代码文件，新建完在vscode里面打开这个文件夹"></a>接着在桌面新建一个文件夹来存放代码文件，新建完在vscode里面打开这个文件夹</h2><p><img src="/img/print/new.png" alt="打开新建的文件夹"></p><h2 id="打开完成之后，开始在vscode里面新建文件，写代码"><a href="#打开完成之后，开始在vscode里面新建文件，写代码" class="headerlink" title="打开完成之后，开始在vscode里面新建文件，写代码"></a>打开完成之后，开始在vscode里面新建文件，写代码</h2><p><img src="/img/print/newpy.png" alt="新建一个文件，后缀是.py"><br><img src="/img/print/py.png" alt="记得后缀是.py"></p><h2 id="接着就是在右边区域写代码，注意写完代码要CTRL-S保存一下"><a href="#接着就是在右边区域写代码，注意写完代码要CTRL-S保存一下" class="headerlink" title="接着就是在右边区域写代码，注意写完代码要CTRL+S保存一下"></a>接着就是在右边区域写代码，注意写完代码要CTRL+S保存一下</h2><p><img src="/img/print/code1.png" alt="写代码"><br><img src="/img/print/wrong.png" alt="这是一个错误的写法"></p><h3 id="记得CTRL-S保存"><a href="#记得CTRL-S保存" class="headerlink" title="记得CTRL+S保存"></a>记得CTRL+S保存</h3><p><img src="/img/print/save.png" alt="记得保存"></p><h2 id="接着运行代码"><a href="#接着运行代码" class="headerlink" title="接着运行代码"></a>接着运行代码</h2><p><img src="/img/print/run.png" alt="运行代码"></p><h2 id="运行成功"><a href="#运行成功" class="headerlink" title="运行成功"></a>运行成功</h2><p><img src="/img/print/success.png" alt="运行成功"></p><h2 id="记住一点：所有函数符号都应该是英文，除非是作为输出内容。"><a href="#记住一点：所有函数符号都应该是英文，除非是作为输出内容。" class="headerlink" title="记住一点：所有函数符号都应该是英文，除非是作为输出内容。"></a><font color=red>记住一点：所有函数符号都应该是英文，除非是作为输出内容。</font></h2>]]></content>
     
@@ -87,21 +118,21 @@
     
     
     
-    <category term="python" scheme="https://vercel.aqyync.top/categories/python/"/>
+    <category term="test" scheme="http://localhost:4000/categories/test/"/>
     
     
-    <category term="输出函数print" scheme="https://vercel.aqyync.top/tags/%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0print/"/>
+    <category term="输出函数print" scheme="http://localhost:4000/tags/%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0print/"/>
     
-    <category term="4月17日" scheme="https://vercel.aqyync.top/tags/4%E6%9C%8817%E6%97%A5/"/>
+    <category term="4月17日" scheme="http://localhost:4000/tags/4%E6%9C%8817%E6%97%A5/"/>
     
   </entry>
   
   <entry>
     <title>python安装</title>
-    <link href="https://vercel.aqyync.top/2023/04/15/python%E5%AE%89%E8%A3%85/"/>
-    <id>https://vercel.aqyync.top/2023/04/15/python%E5%AE%89%E8%A3%85/</id>
+    <link href="http://localhost:4000/2023/04/15/python%E5%AE%89%E8%A3%85/"/>
+    <id>http://localhost:4000/2023/04/15/python%E5%AE%89%E8%A3%85/</id>
     <published>2023-04-15T08:16:10.000Z</published>
-    <updated>2023-11-14T12:58:01.174Z</updated>
+    <updated>2023-11-18T05:46:10.123Z</updated>
     
     <content type="html"><![CDATA[<h1 id="First-下载python"><a href="#First-下载python" class="headerlink" title="First:下载python"></a>First:下载python</h1><h2 id="·-打开浏览器，输入网址："><a href="#·-打开浏览器，输入网址：" class="headerlink" title="· 打开浏览器，输入网址："></a>· 打开浏览器，输入网址：</h2><pre><code>https://www.python.org/</code></pre><h2 id="·-得到一个页面："><a href="#·-得到一个页面：" class="headerlink" title="· 得到一个页面："></a>· 得到一个页面：<img src="/img/python_install/python官网.png" alt="python官网"></h2><h2 id="·-接着："><a href="#·-接着：" class="headerlink" title="· 接着："></a>· 接着：<img src="/img/python_install/找到对应平台.png" alt="找到对应平台下载"></h2><h2 id="·-下一步："><a href="#·-下一步：" class="headerlink" title="· 下一步： "></a>· 下一步： <img src="/img/python_install/找到3.8.10版本.png" alt="找到3.8.10版本"></h2><h2 id="·-下一步"><a href="#·-下一步" class="headerlink" title="· 下一步: "></a>· 下一步: <img src="/img/python_install/下载.png" alt="下载3.8.10版本python"></h2><h2 id="·-等待下载完成-gt"><a href="#·-等待下载完成-gt" class="headerlink" title="· 等待下载完成&gt;"></a>· 等待下载完成&gt;<img src="/img/python_install/waiting.jpg" alt="waiting..."></h2><h2 id="·-找到下载完成的文件双击它："><a href="#·-找到下载完成的文件双击它：" class="headerlink" title="· 找到下载完成的文件双击它："></a>· 找到下载完成的文件<em>双击它</em>：<img src="/img/python_install/下载完成.png" alt="找到下载完成的exe文件*双击它*"></h2><h3 id="我用的是3-11做安装演示，大体上一样。"><a href="#我用的是3-11做安装演示，大体上一样。" class="headerlink" title="!!我用的是3.11做安装演示，大体上一样。"></a>!!我用的是3.11做安装演示，大体上一样。</h3><h2 id="·-安装：勾选完再点击2"><a href="#·-安装：勾选完再点击2" class="headerlink" title="· 安装：勾选完再点击2 "></a>· 安装：勾选完再点击2 <img src="/img/python_install/安装1.png" alt="两个都勾选"></h2><h2 id="·-继续勾选，勾选完点next"><a href="#·-继续勾选，勾选完点next" class="headerlink" title="· 继续勾选，勾选完点next"></a>· 继续勾选，勾选完点next<img src="/img/python_install/2.png" alt="全部勾选上"></h2><h2 id="·-接着继续"><a href="#·-接着继续" class="headerlink" title="· 接着继续   "></a>· 接着继续   <img src="/img/python_install/next.png" alt="勾选和选路径"></h2><h2 id="·-最后点击Install安装，等待安装完成"><a href="#·-最后点击Install安装，等待安装完成" class="headerlink" title="· 最后点击Install安装，等待安装完成 "></a>· 最后点击Install安装，等待安装完成 <img src="/img/python_install/finish.png" alt="至此安装完成~"></h2><h1 id="Second-下载vscode，敲代码"><a href="#Second-下载vscode，敲代码" class="headerlink" title="Second : 下载vscode，敲代码"></a>Second : 下载vscode，敲代码</h1><h2 id="·打开浏览器，输入网址"><a href="#·打开浏览器，输入网址" class="headerlink" title="·打开浏览器，输入网址:"></a>·打开浏览器，输入网址:</h2><pre><code>https://code.visualstudio.com/</code></pre><h2 id="·下载："><a href="#·下载：" class="headerlink" title="·下载："></a>·下载：<img src="/img/python_install/vscode.png" alt="下载"></h2><h2 id="·找到下载完的exe文件，然后双击安装"><a href="#·找到下载完的exe文件，然后双击安装" class="headerlink" title="·找到下载完的exe文件，然后双击安装"></a>·找到下载完的exe文件，然后双击安装<img src="/img/python_install/install_vs.png" alt="找到下载下来的exe文件"></h2><h2 id="·接着看图操作"><a href="#·接着看图操作" class="headerlink" title="·接着看图操作"></a>·接着看图操作</h2><p><img src="/img/python_install/one.png" alt="第一步"><br><img src="/img/python_install/two.png" alt="第二步"><br><img src="/img/python_install/three.png" alt="第三步"><br><img src="/img/python_install/four.png" alt="第四步"><br><img src="/img/python_install/five.png" alt="第五步"></p><h2 id="·关掉重开"><a href="#·关掉重开" class="headerlink" title="·关掉重开 "></a>·关掉重开 <img src="/img/python_install/six.png" alt="第六步"></h2>]]></content>
     
@@ -113,21 +144,21 @@
     
     
     
-    <category term="python" scheme="https://vercel.aqyync.top/categories/python/"/>
+    <category term="test" scheme="http://localhost:4000/categories/test/"/>
     
     
-    <category term="python安装" scheme="https://vercel.aqyync.top/tags/python%E5%AE%89%E8%A3%85/"/>
+    <category term="python安装" scheme="http://localhost:4000/tags/python%E5%AE%89%E8%A3%85/"/>
     
-    <category term="4月15号" scheme="https://vercel.aqyync.top/tags/4%E6%9C%8815%E5%8F%B7/"/>
+    <category term="4月15号" scheme="http://localhost:4000/tags/4%E6%9C%8815%E5%8F%B7/"/>
     
   </entry>
   
   <entry>
     <title>ync</title>
-    <link href="https://vercel.aqyync.top/2023/04/14/ync-1/"/>
-    <id>https://vercel.aqyync.top/2023/04/14/ync-1/</id>
+    <link href="http://localhost:4000/2023/04/14/ync-1/"/>
+    <id>http://localhost:4000/2023/04/14/ync-1/</id>
     <published>2023-04-14T08:54:37.000Z</published>
-    <updated>2023-11-14T12:57:53.324Z</updated>
+    <updated>2023-11-18T05:46:15.351Z</updated>
     
     <content type="html"><![CDATA[<h1 id="yncaqy"><a href="#yncaqy" class="headerlink" title="yncaqy"></a>yncaqy</h1><p>1<br>2<br>3<br>4<br>5<br>6</p><p>7<br>8</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs python">INSTALLED_APPS = [<br>    ...<br>    <span class="hljs-string">&#x27;rest_framework&#x27;</span>,<br>]<br></code></pre></td></tr></table></figure><p><img src="/img\2.jpg" alt="1"><br><img src="https://w.wallhaven.cc/full/9d/wallhaven-9dzr8w.png" alt="2"></p><div class="timeline green"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2022</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>01-02</p></div></div><div class='timeline-item-content'><p>这是测试页面</p></div></div></div><!-- <iframe src="https://www.bilibili.com/video/BV1YY4y1D76n/?share_source=copy_web&vd_source=ad238152766ff2b48ccad8c0e9945d23&t=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height=600 width=800> </iframe> --><!-- <iframe src="//player.bilibili.com/player.html?aid=653875369&bvid=BV1YY4y1D76n&cid=1070500402&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe> -->]]></content>
     
@@ -136,21 +167,19 @@
     
     
     
-    <category term="python" scheme="https://vercel.aqyync.top/categories/python/"/>
-    
-    <category term="test" scheme="https://vercel.aqyync.top/categories/python/test/"/>
+    <category term="test" scheme="http://localhost:4000/categories/test/"/>
     
     
-    <category term="test" scheme="https://vercel.aqyync.top/tags/test/"/>
+    <category term="test" scheme="http://localhost:4000/tags/test/"/>
     
-    <category term="Blog" scheme="https://vercel.aqyync.top/tags/Blog/"/>
+    <category term="Blog" scheme="http://localhost:4000/tags/Blog/"/>
     
   </entry>
   
   <entry>
     <title>AQY</title>
-    <link href="https://vercel.aqyync.top/2023/04/14/AQY/"/>
-    <id>https://vercel.aqyync.top/2023/04/14/AQY/</id>
+    <link href="http://localhost:4000/2023/04/14/AQY/"/>
+    <id>http://localhost:4000/2023/04/14/AQY/</id>
     <published>2023-04-14T08:50:34.000Z</published>
     <updated>2023-11-15T07:00:40.982Z</updated>
     
@@ -164,10 +193,10 @@
     
     
     
-    <category term="test" scheme="https://vercel.aqyync.top/categories/test/"/>
+    <category term="test" scheme="http://localhost:4000/categories/test/"/>
     
     
-    <category term="test" scheme="https://vercel.aqyync.top/tags/test/"/>
+    <category term="test" scheme="http://localhost:4000/tags/test/"/>
     
   </entry>
   
