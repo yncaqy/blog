@@ -344,3 +344,7 @@ svg.social_icon {
 .magnet_item {
   box-shadow: 4px 3px 4px 2px #333;
 }
+
+#aside-content #card-toc .toc-content .toc-link.active {
+  border-radius: 10px;
+}

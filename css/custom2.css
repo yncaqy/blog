@@ -1534,7 +1534,7 @@ blockquote {
 }
 #aside-content #card-toc .toc-content .toc-link.active {
   background: var(--theme-color);
-  border-radius: 8px;
+  border-radius: 10px !important;
 }
 #aside-content #card-toc .toc-content .toc-link.active:hover {
   color: #fefefe;
